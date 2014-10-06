@@ -6,6 +6,7 @@
 			<div class="col-md-10 col-md-offset-1">
 	            {{#post}}
 	                <header class="{{post_class}}">
+					<div class="single-post-container">
 	                    <h1 class="tx-post-title">{{{title}}}</h1>
 	                    
 	                    <div class="tx-post-meta">
@@ -13,11 +14,10 @@
 	                        <time class="tx-post-time" datetime="{{date format='YYYY-MM-DD'}}"><i class="fa fa-calendar"></i> {{date format="DD MMM YYYY"}}</time>
 	                        <span class="tx-post-tags">{{#if tags}}<i class="fa fa-tags"></i>{{/if}} {{tags}}</span>
 	                    </div>
+					</div>
 		            </header>
 	            {{/post}}
 			</div>
 		</div>
 	</div>
 </div>
-	
-	

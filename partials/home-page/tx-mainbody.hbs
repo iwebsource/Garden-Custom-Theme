@@ -4,7 +4,13 @@
             <div class="col-md-12">
                 {{#foreach posts}}
                     <article class="{{post_class}} ">
-                        <div class="tx-post-bg">{{content words="0"}}</div>
+                        <div class="tx-post-bg">
+							{{#if image}}
+								<img src="{{image}}" alt="{{title}}" />
+							{{else}}
+								{{content words="0"}}
+							{{/if}}
+						</div>
                         <div class="block">
                             <div class="tx-post-header">
                                 <h2 class="tx-post-title"><a href="{{url}}">{{{title}}}</a></h2>
