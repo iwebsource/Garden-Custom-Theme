@@ -1,12 +1,10 @@
-# Garden Free Responsive Ghost Theme #
+# A Custom Garden Theme for Ghost #
 
-Garden is a FREE responsive Ghost Theme. The theme has been shaped with metro ui.Garden Theme is perfectly suitable for personal blogging,review writing,travel blog.However possibilities are endless to your creativity.
+The Garden Ghost theme is what we decided to use as a starter point, or base for the Ghost Blogging Tool.
 <br>
-Brought to you by [Themexpert](https://www.themexpert.com)
 ### Preview ###
 
-[Demo](http://garden.ghost.themexpert.com)
-
+[Check it out](http://www.iwebdev.ca)
 
 ##Features
 - Ghost 0.5 Compatible.
@@ -18,4 +16,6 @@ Brought to you by [Themexpert](https://www.themexpert.com)
 - Google Fonts.
 
 ##Copyright & License
-Copyright (C) 2014 [Themexpert](https://www.themexpert.com) - Released under the MIT License.
+Origin Copyright (C) 2014 [Themexpert](https://www.themexpert.com) - Released under the MIT License.
+<br>
+All Custom Development work has been done by the iWebSource Team.
